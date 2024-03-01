@@ -12,6 +12,7 @@ export const handler: Handlers = {
 const PaginaFuego = (props: PageProps<Frase>) => {
     return (
         <body class="img-fondo-3">
+            <link rel="icon" type="image/x-icon" href="https://c0.klipartz.com/pngpicture/700/755/gratis-png-llama-ligera-explosion-de-fuego-material-decorativo-fuego-ardiente-llama-roja.png"/>
             <div>
             <a href="/frase"><img class="flecha" src = "https://i.gifer.com/ZSj7.gif"/></a>
                 <img class ="img-fuego-2" src="https://i.gifer.com/y8.gif"/>
